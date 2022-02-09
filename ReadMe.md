@@ -1,8 +1,7 @@
-# Assessment 02
+# Assessment 02a
 
 Complete the functions in both :
 
-* StringUtilsPart1
-* StringUtilsPart2
+* StringUtilsPart3
 
 Make sure all unit test pass.
